@@ -1,1 +1,0 @@
-[春招已近，这份GitHub万星的ML算法面试大全请收下](https://mp.weixin.qq.com/s/gUujyjv5lU_umtpRURh24w)
