@@ -6,12 +6,12 @@
 
 ## 快速连接
 
-[CV相关](https://github.com/SifanSong/DL-New-Articles-Chinese/blob/master/CV%E7%9B%B8%E5%85%B3.md)
+[CV相关](https://github.com/SifanSong/DL-New-Articles-Chinese/blob/master/CV%E7%9B%B8%E5%85%B3.md): 计算机视觉相关新闻和技术
 
-[公司行业动态](https://github.com/SifanSong/DL-New-Articles-Chinese/blob/master/%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md)
+[公司行业动态](https://github.com/SifanSong/DL-New-Articles-Chinese/blob/master/%E5%85%AC%E5%8F%B8%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81.md): 按照每个公司的时间线整理公司的动态和最新技术，希望能使你在面对考官时更从容
 
-[面试资料](https://github.com/SifanSong/DL-New-Articles-Chinese/blob/master/%E9%9D%A2%E8%AF%95.md)
+[面试资料](https://github.com/SifanSong/DL-New-Articles-Chinese/blob/master/%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99.md): 面试资料的公众号文章或网址汇总
 
 ## 其他
 
-过几天也会加入NLP专区
+过几天也会加入NLP相关
