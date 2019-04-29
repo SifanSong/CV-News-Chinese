@@ -51,4 +51,6 @@
 201904: [点赞收藏：PyTorch常用代码段整理合集](https://mp.weixin.qq.com/s/9nz4vOI2I2wz_buL36TcBg) (机器之心)  
 201904: [那些酷炫的深度学习网络图怎么画出来的？](https://mp.weixin.qq.com/s/ASjckYfAxqpEpIDlmCcTVA) (CVer)  
 201904: [线性模型已退场，XGBoost时代早已来](https://mp.weixin.qq.com/s/pwuOFj_rT5Z_XY9siZosKQ) (机器之心)  
+2018: [pytorchcv](https://github.com/osmr/imgclsmob/tree/master/pytorch/pytorchcv/models)  
+2018: [Understanding and visualizing of Deep Convolutional Neural Networks](https://towardsdatascience.com/deep-convolutional-neural-networks-ccf96f830178) ([DenseNets](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a), [ResNets](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8), [SE-Nets](https://towardsdatascience.com/understanding-and-visualizing-se-nets-1544aff0fc68))    
 
