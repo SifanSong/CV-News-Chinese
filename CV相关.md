@@ -2,6 +2,8 @@
 
 ## GAN:
 
+201906: [你见过火系的暴鲤龙吗？这个项目利用CycleGAN生成不同属性的神奇宝贝](https://mp.weixin.qq.com/s/0xn57qy2CQiUvbF_wWwrlw) (机器之心)  (cycleGAN, style transfer)
+201906: [史上最佳GAN被超越！生成人脸动物高清大图真假难辨，DeepMind发布二代VQ-VAE](https://mp.weixin.qq.com/s/1D04dQcAEd7LEZ03RKpuzg) (量子位) (VQ-VAE-2)  
 201904: [巫术！AI算法让老游戏旧貌换新颜](https://mp.weixin.qq.com/s/oUO2lBop0vFKFO6WlOiZvg) (新智元)  
 201904: [日本AI画师火速走红：印象派画作秒秒钟完工，看一整天都不腻，你也能来DIY](https://mp.weixin.qq.com/s/Y1m8eldYHMK5S5LrMln3Sw) (量子位) (Colab 开源)  
 201903: [哪个小姐姐是假的？Yann LeCun说合成人脸并不难分辨](https://mp.weixin.qq.com/s/Zrz8wcxy5gSupK8HplY0Kw) (机器之心) (style GAN)  
