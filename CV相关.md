@@ -46,10 +46,12 @@
 
 201906: [重磅！美图影像实验室（MTlab）10000 点人脸关键点技术全解读](https://mp.weixin.qq.com/s/clOP8kIopo9kswyWqK515g) (CVer)  
 201906: [杨超越、迪丽热巴变身徐锦江，网友惊叹：对此毫无抵抗力丨AI换脸术](https://mp.weixin.qq.com/s/Xj0sQHwGtPTuKmGNmIfhQw) (量子位)  
+201905: [如何检测极小人脸？试试超分辨率](https://mp.weixin.qq.com/s/I6nIgegyrLeNO04x2HsuJw) (CVer)  
 201905: [漫画人脸检测 | 全局和局部信息融合的深度神经网络（文末源码）](https://mp.weixin.qq.com/s/lhut5ndqZWTwlKZjeY484w) (计算机视觉战队)  
 201905: [刷新WIDER Face多项记录！创新奇智提出高性能精确人脸检测算法](https://mp.weixin.qq.com/s/uEAwt7vIHBa7E876S0BbjQ) (CVer)  
 201905: [换脸只需一张照片，效果碾压deepfakes，梦露、蒙娜丽莎、爱因斯坦都动起来](https://mp.weixin.qq.com/s/WSOMoZBxHTgswHMZLgdAsw) (量子位)  
 201904: [干货 | 分段的人脸检测在移动段的应用](https://mp.weixin.qq.com/s/SC3ebx-C4N4H8B_R6K09cg) (计算机视觉战队)  
+
 
 ## Video-related:
 
@@ -71,6 +73,8 @@
 
 201906: [P图美颜1秒识破，Adobe伯克利联手打造“反PS”神器](https://mp.weixin.qq.com/s/-hEHMF6BvI41cy5ylK3RUg) (CVer)  
 201906: [你的涂鸦活了，CMU中国本科生让画成真丨有代码有Demo](https://mp.weixin.qq.com/s/xPkB6nexTo1FpcJnn_okhA) (量子位) (Demo, 骨架化代码)  
+201905: [Science子刊封面：仅需20%信息，AI场景全再现！](https://mp.weixin.qq.com/s/cEP_LEXXj2PnZS65c8JwgQ) (新智元)  
+201905: [ICLR 2019八大趋势：RNN正在失去光芒，强化学习仍最受欢迎](https://mp.weixin.qq.com/s/sTbWy9gi_XdDAEpBq4BAOg) (深度学习自然语言处理)  
 201904: [一张贴纸欺骗AI，对抗性补丁让人类隐身，监控摄像危险了！](https://mp.weixin.qq.com/s/EzJgDy9btu1dRFYUOA8HwA) (新智元)  
 201904: [即插即用新卷积：提升CNN性能、速度翻倍](https://mp.weixin.qq.com/s/phvH_Kqd9y6BlRMmVTpGuw) (机器之心)
 201904: [AI换脸、虚拟主播、智能影像生产……文娱产业现在已成AI的天下了](https://mp.weixin.qq.com/s/8GaPNE8B8zLh3J0CHrEnuA) (量子位)  
