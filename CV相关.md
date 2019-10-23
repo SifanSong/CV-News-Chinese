@@ -6,7 +6,7 @@
 201906: [推特千赞Demo袭来！简笔画变照片的GauGAN，编故事的GPT-2，浏览器皆可玩](https://mp.weixin.qq.com/s/Uz4Vd70qz7e9UFIxSzaCbw) (量子位)  
 201906: [Jurgen Schmidhuber新论文：我的就是我的，你的GAN还是我的](https://mp.weixin.qq.com/s/I_v_ccLdEOIPiiMyXYkk2Q) (机器之心) (GAN+Minimax)  
 201906: [AI版007恐怖上演！间谍用GAN生成假头像，大肆网钓政客大V](https://mp.weixin.qq.com/s/sb9peS6miahqIoMut9DzcA) (新智元)  
-201906: [你见过火系的暴鲤龙吗？这个项目利用CycleGAN生成不同属性的神奇宝贝](https://mp.weixin.qq.com/s/0xn57qy2CQiUvbF_wWwrlw) (机器之心)  (cycleGAN, style transfer)  
+201906: [你见过火系的暴鲤龙吗？这个项目利用CycleGAN生成不同属性的神奇宝贝](https://mp.weixin.qq.com/s/0xn57qy2CQiUvbF_wWwrlw) (机器之心)  (cycleGAN, style transfer) ([pytorch cycle-GAN codes](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix))  
 201906: [史上最佳GAN被超越！生成人脸动物高清大图真假难辨，DeepMind发布二代VQ-VAE](https://mp.weixin.qq.com/s/1D04dQcAEd7LEZ03RKpuzg) (量子位) (VQ-VAE-2)  
 201905: [Ian GoodFellow最新演讲：对抗机器学习的进展与挑战（附视频、PPT下载）](https://mp.weixin.qq.com/s/CHtQvbNLDTC29Vp-6KcGkA) (新智元)  
 201905: [加性对抗学习新模型，消灭身份识别偏差 | CVPR 2019](https://mp.weixin.qq.com/s/S5QeQ-hkcSjN7lrxNes-oQ) (新智元)  
