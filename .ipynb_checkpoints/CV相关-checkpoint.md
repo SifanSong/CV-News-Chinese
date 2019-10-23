@@ -8,6 +8,8 @@
 201906: [AI版007恐怖上演！间谍用GAN生成假头像，大肆网钓政客大V](https://mp.weixin.qq.com/s/sb9peS6miahqIoMut9DzcA) (新智元)  
 201906: [你见过火系的暴鲤龙吗？这个项目利用CycleGAN生成不同属性的神奇宝贝](https://mp.weixin.qq.com/s/0xn57qy2CQiUvbF_wWwrlw) (机器之心)  (cycleGAN, style transfer)  
 201906: [史上最佳GAN被超越！生成人脸动物高清大图真假难辨，DeepMind发布二代VQ-VAE](https://mp.weixin.qq.com/s/1D04dQcAEd7LEZ03RKpuzg) (量子位) (VQ-VAE-2)  
+201905: [Ian GoodFellow最新演讲：对抗机器学习的进展与挑战（附视频、PPT下载）](https://mp.weixin.qq.com/s/CHtQvbNLDTC29Vp-6KcGkA) (新智元)  
+201905: [加性对抗学习新模型，消灭身份识别偏差 | CVPR 2019](https://mp.weixin.qq.com/s/S5QeQ-hkcSjN7lrxNes-oQ) (新智元)  
 201905: [AI还原半世纪前的黑白电影和照片：效果惊艳在线可玩](https://mp.weixin.qq.com/s/hx2CFdosvydg2xly8vuVJA) (量子位)  
 201904: [巫术！AI算法让老游戏旧貌换新颜](https://mp.weixin.qq.com/s/oUO2lBop0vFKFO6WlOiZvg) (新智元)  
 201904: [日本AI画师火速走红：印象派画作秒秒钟完工，看一整天都不腻，你也能来DIY](https://mp.weixin.qq.com/s/Y1m8eldYHMK5S5LrMln3Sw) (量子位) (Colab 开源)  
@@ -51,6 +53,7 @@
 
 201906: [重磅！美图影像实验室（MTlab）10000 点人脸关键点技术全解读](https://mp.weixin.qq.com/s/clOP8kIopo9kswyWqK515g) (CVer)  
 201906: [杨超越、迪丽热巴变身徐锦江，网友惊叹：对此毫无抵抗力丨AI换脸术](https://mp.weixin.qq.com/s/Xj0sQHwGtPTuKmGNmIfhQw) (量子位)  
+201905: [大熊猫“认脸”神器！扫一扫，人脸识别认证卖萌大熊猫](https://mp.weixin.qq.com/s/qzMuMz_WO1qn2NYS1r-MqA) (新智元)  
 201905: [ICCV19 轻量级人脸识别大赛开始了！14000＄奖金等你来拿](https://mp.weixin.qq.com/s/yx1OFO864WG3PxpjOLgCkA) (CVer)  
 201905: [林青霞旧照换新颜，AI图像修复术神助攻](https://mp.weixin.qq.com/s/Xs7o2WFgBDtamC8PbsCJQg) (新智元)  
 201905: [如何检测极小人脸？试试超分辨率](https://mp.weixin.qq.com/s/I6nIgegyrLeNO04x2HsuJw) (CVer)  
@@ -82,10 +85,10 @@
 
 ## 趋势:
 
+201905: [美国陆军研究实验室：新框架让AI可以终身学习](https://mp.weixin.qq.com/s/KalTAwGSbGXVcmbLaft4yg) (新智元)  
 201905: [“机器行为学”正式诞生！MIT、哈佛等23位作者Nature长文综述](https://mp.weixin.qq.com/s/mMv30Xp_iJDsXs38t2T4UQ) (新智元)  
 201905: [清华AI研究院新动作！院士领衔探索第三代AI，成立基础理论研究中心](https://mp.weixin.qq.com/s/IJVEg3D1hmVmGPsY008iQA) (量子位)  
 201905: [ICLR 2019八大趋势：RNN正在失去光芒，强化学习仍最受欢迎](https://mp.weixin.qq.com/s/sTbWy9gi_XdDAEpBq4BAOg) (深度学习自然语言处理)  
-
 
 ## 基础:
 
@@ -104,15 +107,19 @@
 2018: [Understanding and visualizing of Deep Convolutional Neural Networks](https://towardsdatascience.com/deep-convolutional-neural-networks-ccf96f830178) ([DenseNets](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a), [ResNets](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8), [SE-Nets](https://towardsdatascience.com/understanding-and-visualizing-se-nets-1544aff0fc68))    
 
 
-## 平台:
+## 平台框架:
 
+201905: [Facebook全新开源深度学习框架Pythia，即插即用快速构建AI模型](https://mp.weixin.qq.com/s/LUjSOlVr0CriDvVXVDDhkw) (新智元)  
 201905: [TensorFlow官方发布剪枝优化工具：参数减少80%，精度几乎不变](https://mp.weixin.qq.com/s/C5_3_9gUYY36C6ZQTGMweg) (量子位)  
-
 
 ## Others:
 
 201906: [P图美颜1秒识破，Adobe伯克利联手打造“反PS”神器](https://mp.weixin.qq.com/s/-hEHMF6BvI41cy5ylK3RUg) (CVer)  
 201906: [你的涂鸦活了，CMU中国本科生让画成真丨有代码有Demo](https://mp.weixin.qq.com/s/xPkB6nexTo1FpcJnn_okhA) (量子位) (Demo, 骨架化代码)  
+201905: [CVPR2019 | 港中文&腾讯优图等提出：暗光下的图像增强](CVPR2019 | 港中文&腾讯优图等提出：暗光下的图像增强) (CVer)  
+201905: [CVPR2019 Oral | 利用几何中位数(Geometric Median)进行模型剪枝](https://mp.weixin.qq.com/s/SXptwzsq85tTlBhhpl9Qtw) (CVer)  
+201905: [AI技术在图像水印处理中的应用](https://mp.weixin.qq.com/s/boMHd0j8QhtS295Anydf6A) (CVer)  
+201905: [蒙娜丽莎.gif：三星新研究用一张图像合成动图，无需3D建模](https://mp.weixin.qq.com/s/50Y-Umlxy9d7TMeW9fnWyA) (机器之心)  
 201905: [Science子刊封面：仅需20%信息，AI场景全再现！](https://mp.weixin.qq.com/s/cEP_LEXXj2PnZS65c8JwgQ) (新智元)  
 201905: [ICLR2019最佳论文！神经网络子网络压缩10倍，精确度保持不变 | MIT出品](https://mp.weixin.qq.com/s/_C5AvD3YmRH2dmBjbEZFrQ) (量子位)  
 201904: [一张贴纸欺骗AI，对抗性补丁让人类隐身，监控摄像危险了！](https://mp.weixin.qq.com/s/EzJgDy9btu1dRFYUOA8HwA) (新智元)  

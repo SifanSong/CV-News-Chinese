@@ -25,6 +25,10 @@
 201905: [刚刚，中国估值最高的AI公司一口气发布11款产品，横跨5大领域](https://mp.weixin.qq.com/s/I2HjxXfwQwpktISTezwckA) (量子位)  
 201905: [商汤开源最大目标跟踪库PySOT，代码已正式上线！](https://mp.weixin.qq.com/s/f355RsXigTPxoF5Eu9XD-w) (CVer)  
 
+## 科大讯飞:
+
+201905: [科大讯飞：我们和华为基因相似，板凳能坐十年冷，如今向C端强劲发力](https://mp.weixin.qq.com/s/0c-cvbqE2pflXamMcEkHtA) (新智元)  
+
 ## 小马智行 (PonyAI)
 
 201904: [PonyAI最新估值17亿美元！昆仑万维5千万入股，这是中国自动驾驶新纪录](https://mp.weixin.qq.com/s/l0lpyApk6vSts9jlp03vpQ) (量子位)  
@@ -40,6 +44,10 @@
 ## 贝壳找房:
 
 201905: [AI讲房、VR看房、楼盘字典……居住服务领域的一哥，走了这样一条产业互联网之路](https://mp.weixin.qq.com/s/SfNH1mErULOysO5foFmoUA) (量子位)  
+
+## 大学相关:
+
+201906: [中国人民大学高瓴AI学院启动教师招聘，福利待遇不一般](https://mp.weixin.qq.com/s/WSGEEoRtAZzxIXGCe8HJjA) (量子位)  
 
 ## Others:
 
