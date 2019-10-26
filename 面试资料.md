@@ -1,5 +1,6 @@
 ## 面试经验/文章汇总
 
+201906: [计算机视觉（CV）方向今年招聘情况怎么样？是否已经人才过剩？](https://mp.weixin.qq.com/s/sRL4IJAZ7XzeaRjvs1srNQ) (CVer)  
 201905: [算法菜鸟的春招之路](https://mp.weixin.qq.com/s/9KEg3C5wsXjvc4u8WpHDYA) (CVer)  
 201905: [CV算法岗春招实习面经（谷歌/微软/阿里/腾讯/网易/商汤/旷视/拼多多/华为等）](https://mp.weixin.qq.com/s/PX_tt4AWFf6C_iDfa0ST5Q) (CVer)  
 201905: [最全中文leetcode解题攻略：思路知识点代码都有，搞定AI大厂笔试](https://mp.weixin.qq.com/s/Bw2eqZW3IR1KsUu1vXpeeg) (量子位)  

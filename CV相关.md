@@ -65,6 +65,7 @@
 
 ## Video-related:
 
+201906: [斯坦福等新研究：随意输入文本，改变视频人物对白，逼真到让作者害怕](https://mp.weixin.qq.com/s/qgaWNIeVG821jENaPI2Wmg) (量子位)  
 201906: [浙大学霸本科生顶会研究！只需20分钟音频，AI就能逼真模仿你的声音](https://mp.weixin.qq.com/s/c_aVwfxZJDT_qxtmnPfjjg) (量子位)  
 201906: [日活两亿的快手，如何用AI理解视频、做好分发](https://mp.weixin.qq.com/s/BaPj54_MVHPC6nhsC-FSKA) (量子位)  
 201905: [谷歌AI动画接龙：只用头尾两帧图像，片刻生成完整视频！](https://mp.weixin.qq.com/s/YegUmoo1Yoa8OeGX1Lx5JA) (新智元)  
@@ -111,6 +112,10 @@
 
 201905: [Facebook全新开源深度学习框架Pythia，即插即用快速构建AI模型](https://mp.weixin.qq.com/s/LUjSOlVr0CriDvVXVDDhkw) (新智元)  
 201905: [TensorFlow官方发布剪枝优化工具：参数减少80%，精度几乎不变](https://mp.weixin.qq.com/s/C5_3_9gUYY36C6ZQTGMweg) (量子位)  
+
+## 比赛相关:
+
+201906: [CVPR 2019细粒度图像分类竞赛中国团队DeepBlueAI获冠军 | 技术干货分享](https://mp.weixin.qq.com/s/uCIy8NT0wULOTk2RcUF6Fg) (新智元)  
 
 ## Others:
 
