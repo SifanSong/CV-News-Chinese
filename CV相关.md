@@ -2,6 +2,8 @@
 
 ## GAN:
 
+201906: [MIT有个做披萨的GAN，登上了CVPR：加香肠、去橄榄、再烤熟，分层才是王道](https://mp.weixin.qq.com/s/DEsS_beJJuBisvQsPsPtPw) (量子位)  
+201906: [给GAN一句描述，它就能按要求画画，微软CVPR新研究 | 附PyTorch代码](https://mp.weixin.qq.com/s/6QoQKOffg2btjtFTLIsSLQ) (量子位)  
 201906: [头像神器！照片一键秒转简笔画，清华刘永进等CVPR 19 Oral研究 | 在线可玩](https://mp.weixin.qq.com/s/e2tiSnkE7xrrohEgEraOsw) (量子位) (APDrawingGAN)  
 201906: [推特千赞Demo袭来！简笔画变照片的GauGAN，编故事的GPT-2，浏览器皆可玩](https://mp.weixin.qq.com/s/Uz4Vd70qz7e9UFIxSzaCbw) (量子位)  
 201906: [Jurgen Schmidhuber新论文：我的就是我的，你的GAN还是我的](https://mp.weixin.qq.com/s/I_v_ccLdEOIPiiMyXYkk2Q) (机器之心) (GAN+Minimax)  
@@ -27,6 +29,7 @@
 
 ## Object Detection:
 
+201906: [大盘点 | 性能最强的目标检测算法](https://mp.weixin.qq.com/s/N7QdQVzm6UuPvPN9niHI6w) (CVer)  
 201906: [CVPR2019 | 旷视研究院提出Re-ID新方法VPM，优化局部成像下行人再识别](https://mp.weixin.qq.com/s/6O1gWcq6IMCZtX0-qgq75Q) (CVer)  
 201905: [你比个手势，AI就识别出Emoji，浏览器上跑：已开源，推特2.8万赞](https://mp.weixin.qq.com/s/RZhL48X7wUI5iXKAhLCC0w) (量子位 ) (SSD-MobileNet, Tensorflow.js)  
 201905: [不用挨个数数，DNN也能「一眼看出」目标数量](https://mp.weixin.qq.com/s/oWBZmjZZB-Sk3ivhC2jY-w) (机器之心)  
@@ -51,6 +54,7 @@
 
 ## Face-related:
 
+201906: [谷歌AI秀神技：大脸畸变一键还原，拍照无需抢C位，实时运行毫无PS痕迹](https://mp.weixin.qq.com/s/entoLCunjKY7PYWI8-aAgg) (量子位)  
 201906: [重磅！美图影像实验室（MTlab）10000 点人脸关键点技术全解读](https://mp.weixin.qq.com/s/clOP8kIopo9kswyWqK515g) (CVer)  
 201906: [杨超越、迪丽热巴变身徐锦江，网友惊叹：对此毫无抵抗力丨AI换脸术](https://mp.weixin.qq.com/s/Xj0sQHwGtPTuKmGNmIfhQw) (量子位)  
 201905: [大熊猫“认脸”神器！扫一扫，人脸识别认证卖萌大熊猫](https://mp.weixin.qq.com/s/qzMuMz_WO1qn2NYS1r-MqA) (新智元)  
