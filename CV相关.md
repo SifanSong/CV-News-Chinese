@@ -2,6 +2,7 @@
 
 ## GAN:
 
+201909: [你跳宅舞的样子很专业：不，这都是AI合成的结果](https://mp.weixin.qq.com/s/VOvDUA9QGGPG4_sSIrQaRQ) (机器之心) (腾讯) (Liquid Swarping GAN)  
 201906: [MIT有个做披萨的GAN，登上了CVPR：加香肠、去橄榄、再烤熟，分层才是王道](https://mp.weixin.qq.com/s/DEsS_beJJuBisvQsPsPtPw) (量子位)  
 201906: [给GAN一句描述，它就能按要求画画，微软CVPR新研究 | 附PyTorch代码](https://mp.weixin.qq.com/s/6QoQKOffg2btjtFTLIsSLQ) (量子位)  
 201906: [头像神器！照片一键秒转简笔画，清华刘永进等CVPR 19 Oral研究 | 在线可玩](https://mp.weixin.qq.com/s/e2tiSnkE7xrrohEgEraOsw) (量子位) (APDrawingGAN)  
@@ -15,10 +16,12 @@
 201905: [AI还原半世纪前的黑白电影和照片：效果惊艳在线可玩](https://mp.weixin.qq.com/s/hx2CFdosvydg2xly8vuVJA) (量子位)  
 201904: [巫术！AI算法让老游戏旧貌换新颜](https://mp.weixin.qq.com/s/oUO2lBop0vFKFO6WlOiZvg) (新智元)  
 201904: [日本AI画师火速走红：印象派画作秒秒钟完工，看一整天都不腻，你也能来DIY](https://mp.weixin.qq.com/s/Y1m8eldYHMK5S5LrMln3Sw) (量子位) (Colab 开源)  
+201903: [教练，我想学跳舞：NBA球星变身“舞王”，都是托机器学习的福](https://mp.weixin.qq.com/s/61CT_scpO6ycbMud_SIfAw) (量子位) (CMU) (OnePose)  
 201903: [哪个小姐姐是假的？Yann LeCun说合成人脸并不难分辨](https://mp.weixin.qq.com/s/Zrz8wcxy5gSupK8HplY0Kw) (机器之心) (style GAN)  
 201902: [这些waifu、猫、人都不存在！英伟达StyleGAN已催生一堆假片网站](https://mp.weixin.qq.com/s/YZlzaoubRlkQcaQyb9fU-w) (量子位) (style GAN)  
 201902: [用英伟达StyleGAN生成老婆吧，他生成了一百多只明日香 | 开源代码](https://mp.weixin.qq.com/s/Pmr2yPZ3Mi32W5JuJCco_A) (量子位) (style GAN)  
 201902: [史上最强图像生成器BigGAN变身DeepGAN？四倍深度实现更强效果](https://mp.weixin.qq.com/s/akLvNQZMNTaVbkbUrZY4tw) (机器之心) (bigGAN-DeepGAN)  
+201808: [UC伯克利超酷研究：舞痴和舞王之间，只差一个神经网络](https://mp.weixin.qq.com/s/KDlvgCWjWDIgZO6hykALHQ) (量子位) (UC伯克利) (Everybody dance now)  
 
 ## CNN图像分类/识别：
 
