@@ -2,6 +2,9 @@
 
 ## GAN:
 
+201910: [英伟达小样本换脸AI：金毛一秒变二哈，还有在线试玩](https://mp.weixin.qq.com/s/xyfw3eFmMx6vyt9lvv4fBQ) (GauGAN) (新智元)  
+201910: [简单几笔素描就能“复原”真实人脸，这是沈向洋高徒出品的CSAGAN](https://mp.weixin.qq.com/s/7SUnB_ZPcMu_GF48XSqAWQ) (量子位)  
+201910: [利用NAS寻找最佳GAN：AutoGAN架构搜索方案专为GAN打造](https://mp.weixin.qq.com/s/VdjHp5Tb1fSyV3CQblPQmw) (机器之心)  
 201909: [你跳宅舞的样子很专业：不，这都是AI合成的结果](https://mp.weixin.qq.com/s/VOvDUA9QGGPG4_sSIrQaRQ) (机器之心) (腾讯) (Liquid Swarping GAN)  
 201906: [MIT有个做披萨的GAN，登上了CVPR：加香肠、去橄榄、再烤熟，分层才是王道](https://mp.weixin.qq.com/s/DEsS_beJJuBisvQsPsPtPw) (量子位)  
 201906: [给GAN一句描述，它就能按要求画画，微软CVPR新研究 | 附PyTorch代码](https://mp.weixin.qq.com/s/6QoQKOffg2btjtFTLIsSLQ) (量子位)  
@@ -25,6 +28,7 @@
 
 ## CNN图像分类/识别：
 
+201910: [抖音AI火了！以视频搜视频，不知小姐姐叫什么，也能搜出她的影像](https://mp.weixin.qq.com/s/HBMyCkMiXHZ3o7PiQmNAjQ) (量子位)  
 201906: [谷歌EfficientNet缩放模型，PyTorch实现出炉，登上GitHub热榜丨Demo可用](https://mp.weixin.qq.com/s/FxKeOvF_Qxo_RCe97Qr5zw) (量子位)  
 201904: [即插即用新卷积：提升CNN性能、速度翻倍](https://mp.weixin.qq.com/s/phvH_Kqd9y6BlRMmVTpGuw) (机器之心)  
 201902: [德国学者给CNN泼冷水：图像分类策略太简单，提高准确率全靠调参](https://mp.weixin.qq.com/s/uX7txjPuea-bbIaEEU1KBw) (量子位) (BagNet)  
@@ -32,6 +36,14 @@
 
 ## Object Detection:
 
+201911: [一文看尽8篇目标检测最新论文(EfficientDet/EdgeNet/ASFF/RoIMix/SCL/EFGRNet等）](https://mp.weixin.qq.com/s/qRr0199V1X-E5kTlXTcvig) (CVer)  
+201911: [EfficientDet：COCO 51.0 mAP！谷歌大脑提出目标检测新标杆](https://mp.weixin.qq.com/s/gMS7b2rrCeAh0DUYlJa4hg) (我爱计算机视觉)  
+201911: [摸不到视频里的犀牛，却能在它身上画画，特效紧贴凹凸表面，动也不掉：全靠免费AE插件](https://mp.weixin.qq.com/s/P4GpdqugOcJDsDmn24xaBA) (量子位)  
+201910: [Gaussian YOLOv3：一个更强的YOLOv3，现已开源！](https://mp.weixin.qq.com/s/UPo44DIRegTCDIqkjUUKwg) (CVer)  
+201910: [Facebook 发布 Detectron2：基于 PyTorch 的新一代目标检测工具](https://mp.weixin.qq.com/s/UliL8gbNFnfpVOFNKDtgvA) (AI开发者)  
+201910: [比Tiny YOLOv3小8倍，性能提升11个点，4MB的网络也能做目标检测](https://mp.weixin.qq.com/s/cl3HBzt_u1Edp35YLmBVsw) (机器之心)  
+201910: [目标检测新突破！来了解Res2Net深度多尺度目标检测架构](https://mp.weixin.qq.com/s/81Hp1HnqptVJVEBuNZFxdg) (AI开发者)  
+201910: [从零开始训练目标检测器总结 | Rethinking ImageNet预训练](https://mp.weixin.qq.com/s/Po4uUv4XmgVfpCS6tSMwZQ) (CVer)  
 201906: [大盘点 | 性能最强的目标检测算法](https://mp.weixin.qq.com/s/N7QdQVzm6UuPvPN9niHI6w) (CVer)  
 201906: [CVPR2019 | 旷视研究院提出Re-ID新方法VPM，优化局部成像下行人再识别](https://mp.weixin.qq.com/s/6O1gWcq6IMCZtX0-qgq75Q) (CVer)  
 201905: [你比个手势，AI就识别出Emoji，浏览器上跑：已开源，推特2.8万赞](https://mp.weixin.qq.com/s/RZhL48X7wUI5iXKAhLCC0w) (量子位 ) (SSD-MobileNet, Tensorflow.js)  
@@ -47,6 +59,7 @@
 
 ## Semantic Segmentation:
 
+201910: [图像分割中的深度学习：U-Net 体系结构](https://mp.weixin.qq.com/s/KXOVyfaJERhCTYMuhRBQXw) (AI开发者)  
 201906: [打破国际AI胸部多器官分割记录，腾讯优图荣获SegTHOR三项冠军](https://mp.weixin.qq.com/s/5WoN8WoQuopi6PvElUcIww) (腾讯优图)  
 201906: [深度学习时代下的语义分割综述](https://mp.weixin.qq.com/s/MFUAloM_PEBmPRFfFPF-9g) (CVer)  
 201906: [强调语义分割数据增强的技巧](https://mp.weixin.qq.com/s/5WBLxwlEXgXRU21FQx9DRw) (CVer)  
@@ -72,6 +85,8 @@
 
 ## Video-related:
 
+201911: [你写脚本，AI自动剪视频：13分钟完成剪辑师7小时创作，清华北航联手打造，丘成桐参与其中](https://mp.weixin.qq.com/s/vuhoK4cVaHDn6oTuGqX_Eg) (量子位)  
+201910: [让视频里的你完全消失，Adobe最新SOTA模型实现无痕修图，无需先验知识](https://mp.weixin.qq.com/s/JahD1ON5ym0_ldc7MiJz7A) (机器之心)  
 201906: [斯坦福等新研究：随意输入文本，改变视频人物对白，逼真到让作者害怕](https://mp.weixin.qq.com/s/qgaWNIeVG821jENaPI2Wmg) (量子位)  
 201906: [浙大学霸本科生顶会研究！只需20分钟音频，AI就能逼真模仿你的声音](https://mp.weixin.qq.com/s/c_aVwfxZJDT_qxtmnPfjjg) (量子位)  
 201906: [日活两亿的快手，如何用AI理解视频、做好分发](https://mp.weixin.qq.com/s/BaPj54_MVHPC6nhsC-FSKA) (量子位)  
@@ -91,8 +106,19 @@
 
 201905: [用自注意力增强卷积：这是新老两代神经网络的对话（附实现）](https://mp.weixin.qq.com/s/fJkSrhbl3M4YaQoV4X2ewQ) (CVer)  
 
+## AutoML:
+
+201911: [谷歌开源 MobileNetV3：新思路 AutoML 改进计算机视觉模型移动端](https://mp.weixin.qq.com/s/260bXFNuK4tUqdu8zCaRdQ) (AI开发者)
+201911: [谷歌把打败99%顶级程序员的AutoML集成到Kaggle平台！关联账号补贴300美元](https://mp.weixin.qq.com/s/nEc5yKZHi1E1aYNv2V9FfA) (新智元)  
+201910: [AutoML 是否被过度炒作？](https://mp.weixin.qq.com/s/MNsWbRIwZhvUdDMIUZdvgg) (AI开发者)  
+
+## 无监督:
+
+201911: [何恺明最新一作论文：无监督胜有监督，迁移学习无压力，刷新7项检测分割任务](https://mp.weixin.qq.com/s/S0CuXhT9UkdRjxdfOJ2iqA) (量子位)  
+
 ## 趋势:
 
+201911: [谷歌新研究：探索权重无关神经网络，已开放相关源代码](https://mp.weixin.qq.com/s/-oUTVymN9YnRLS-ml3UZ5g) (新智元)  
 201905: [美国陆军研究实验室：新框架让AI可以终身学习](https://mp.weixin.qq.com/s/KalTAwGSbGXVcmbLaft4yg) (新智元)  
 201905: [“机器行为学”正式诞生！MIT、哈佛等23位作者Nature长文综述](https://mp.weixin.qq.com/s/mMv30Xp_iJDsXs38t2T4UQ) (新智元)  
 201905: [清华AI研究院新动作！院士领衔探索第三代AI，成立基础理论研究中心](https://mp.weixin.qq.com/s/IJVEg3D1hmVmGPsY008iQA) (量子位)  
@@ -100,6 +126,8 @@
 
 ## 基础:
 
+201911: [PyTorch算法加速指南](https://mp.weixin.qq.com/s/HWI4IHR-aGIcKyiVxSoIzg) (AI开发者)  
+201910: [如何通过交叉验证改善你的训练数据集？](https://mp.weixin.qq.com/s/LofP7xCcILFt5qnmB4c8iw) (AI开发者)  
 201906: [6000星人气深度学习资源！架构模型技巧全都有，图灵奖得主LeCun推荐](https://mp.weixin.qq.com/s/BHWEarst7jTEKR2viggYBA) (量子位)  
 201906: [CNN网络结构的发展：从LeNet到EfficientNet](https://mp.weixin.qq.com/s/ooK2aAC_TAPFmK9dPLF-Fw) (CVer)  
 201906: [Pytorch网络结构可视化](https://mp.weixin.qq.com/s/EJDSJYsXAxBzVom3NSBRnA) (CVer)  
@@ -126,6 +154,11 @@
 
 ## Others:
 
+201911: [谷歌大脑开源「数据增强」新方法：RandAugment，在ImageNet准确率达85%](https://mp.weixin.qq.com/s/JezHGLv_x8wr7vigA_mShg) (Data Augmentation) (CVer)  
+201911: [超好用的自信学习：1行代码查找标签错误，3行代码学习噪声标签](https://mp.weixin.qq.com/s/byzL0Te5-QQLR7bxJpoZrw) (量子位)  
+201910: [半年5战5金：Kaggle史上最快GrandMaster是如何炼成的](https://mp.weixin.qq.com/s/74wC9B2IeupobvxASeq7dA) (机器之心)  
+201910: [你有哪些deep learning（rnn、cnn）调参的经验？](https://mp.weixin.qq.com/s/83snbei8T8p296mBcEjeoQ) (CVer)  
+201910: [杀手级AI补全代码工具问世，支持7种编程语言及10种主流IDE，程序员沸腾了](https://mp.weixin.qq.com/s/vTyxc3fOaM2cI8VILrreCQ) (CVer)  
 201906: [P图美颜1秒识破，Adobe伯克利联手打造“反PS”神器](https://mp.weixin.qq.com/s/-hEHMF6BvI41cy5ylK3RUg) (CVer)  
 201906: [你的涂鸦活了，CMU中国本科生让画成真丨有代码有Demo](https://mp.weixin.qq.com/s/xPkB6nexTo1FpcJnn_okhA) (量子位) (Demo, 骨架化代码)  
 201905: [CVPR2019 | 港中文&腾讯优图等提出：暗光下的图像增强](CVPR2019 | 港中文&腾讯优图等提出：暗光下的图像增强) (CVer)  
