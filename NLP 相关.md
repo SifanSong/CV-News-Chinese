@@ -1,5 +1,6 @@
 ## NLP 相关
 
+202005: [GPT-3王者来袭！1750亿参数少样本无需微调，网友：「调参侠」都没的当了](https://mp.weixin.qq.com/s/dibf3bU4hQ7nXTPGMFsKbg) (新智元)  
 201911: [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://mp.weixin.qq.com/s/gp9eFeM5Q85pAazWDuG9_g) (量子位)  
 201911: [中文预训练模型ZEN开源，效果领域内最佳，创新工场港科大出品](https://mp.weixin.qq.com/s/NLhqVKrPgYBPRjM1uYwM9A) (量子位)  
 201910: [超小型BERT中文版横空出世！模型只有16M，训练速度提升10倍](https://mp.weixin.qq.com/s/eVlNpejrxdE4ctDTBM-fiA) (新智元)  

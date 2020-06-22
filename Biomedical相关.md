@@ -1,5 +1,6 @@
 ## Biomedical 相关
 
+202005: [来聊聊U-Net及其变种](https://mp.weixin.qq.com/s/gghTOMOD5_aIXKYfPryurw) (CVer)  
 201912: [AI啊，我这里有些羞羞的东西，你要不要看一眼 (AI 精子活性分析)](https://mp.weixin.qq.com/s/Ngmp15hYYmE8BFw4_hMaZw) (量子位)  
 201911: [英特尔AI医疗实战曝光：10倍加速辅助诊断、准确度高达90%](https://mp.weixin.qq.com/s/WleVw05Prs5dMUAs0CCqpQ) (机器之心)  
 201911: [新型 AI 可提前一个月预测癫痫发作，成功率99.6%](https://mp.weixin.qq.com/s/5XFo1BaROZe6svfNvw4RAg) (DeepTech深科技)  

@@ -2,6 +2,7 @@
 
 ## GAN:
 
+202005: [Progressive GAN PyTorch 复现踩坑](https://zhuanlan.zhihu.com/p/56244285?utm_source=wechat_session&utm_medium=social&utm_oi=38774348185600&from=timeline&isappinstalled=0&s_s_i=oQ5fBwB0sRNYNOcptg4NofMVwTRmRJjmpEuBIMcCcbY%3D&s_r=1) (知乎)  
 201912: [GAN和PS合体会怎样？东京大学图像增强新研究：无需配对图像，增强效果还可解释](https://mp.weixin.qq.com/s/UgKGBoCIxqYIq0u-3-oFsg) (CVer)  
 201912: [BigGAN被干了！DeepMind发布LOGAN：FID提升32%，华人一作领衔](https://mp.weixin.qq.com/s/jglebP4Zb9rZtb2EhWiQDA) (LOGAN) (量子位)  
 201912: [「附身」马云、恶搞特朗普，AI新应用助你上演「大咖模仿秀」](https://mp.weixin.qq.com/s/r5iGfz7TljmpFG5Hyj940g) (MarioNETte) (机器之心)  
@@ -29,6 +30,13 @@
 201902: [史上最强图像生成器BigGAN变身DeepGAN？四倍深度实现更强效果](https://mp.weixin.qq.com/s/akLvNQZMNTaVbkbUrZY4tw) (机器之心) (bigGAN-DeepGAN)  
 201808: [UC伯克利超酷研究：舞痴和舞王之间，只差一个神经网络](https://mp.weixin.qq.com/s/KDlvgCWjWDIgZO6hykALHQ) (量子位) (UC伯克利) (Everybody dance now)  
 
+## 3D/深度 相关:
+
+202005: [操纵加鲁鲁兽的机会来了，SIGGRAPH论文提出RigNet帮动画师做骨架绑定](https://mp.weixin.qq.com/s/bRCtx8E3t0GPm_wvAq2-3w) (机器之心)  
+202005: [一部手机，万物皆可复制粘贴，这位兼职写代码的设计师将AR玩出了新高度](https://mp.weixin.qq.com/s/xbx9tj40oLb20o3-ZsknXg) (机器之心)  
+202005: [你的厨房被水淹了！别担心，这只是3D深度估计做出的特效](https://mp.weixin.qq.com/s/WlDrvXDp28WTxTKRzNUfxA) (机器之心) ([paper](https://arxiv.org/pdf/2004.15021.pdf) [Github](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/))  
+202005: [中国女博士的「水淹食堂」大法：单目视频完美重建3D场景，画面毫无违和感](https://mp.weixin.qq.com/s/J9DIDMHc6uHPQ8snadRcPA) (量子位)  
+
 ## CNN图像分类/识别：
 
 201910: [抖音AI火了！以视频搜视频，不知小姐姐叫什么，也能搜出她的影像](https://mp.weixin.qq.com/s/HBMyCkMiXHZ3o7PiQmNAjQ) (量子位)  
@@ -39,6 +47,8 @@
 
 ## Object/Instance Detection:
 
+202005: [模型的跨界：我拿Transformer去做目标检测，结果发现效果不错](https://mp.weixin.qq.com/s/avt5xktDH9oVRq2_5k6wkQ) (机器之心)  
+202005: [CenterNet再升级！CenterTrack：以点代物，同时进行目标检测和跟踪](https://mp.weixin.qq.com/s/lDPYyFbJmZ_Fw32GQ3-pEw) (CVer)  
 201912: [字节跳动实习生提出实例分割新方法：性能超过何恺明Mask R-CNN](https://mp.weixin.qq.com/s/WAjIWSLgJLVE0KsJZdtqGA) (量子位)  
 201912: [YOLOv3最全复现代码合集（含PyTorch/TensorFlow和Keras等）](https://mp.weixin.qq.com/s/itF-C4TDi1JtuW1Dv2H_SA) (CVer)  
 201912: [一文看尽10篇目标检测最新论文（SpineNet/AugFPN/LRF-Net/SABL/DSFPN等）](https://mp.weixin.qq.com/s/moRNkCaBDtYZgXwaZDXBwA) (CVer)  
@@ -69,6 +79,7 @@
 
 ## Semantic Segmentation:
 
+202005: [将全景分割用到养猪场，AI养猪到底靠不靠谱？](https://mp.weixin.qq.com/s/WcZ_fxM7RkI14UJA35y30A) (机器之心)  
 201912: [何恺明团队又出神作：将图像分割视作渲染问题，性能显著提升！](https://mp.weixin.qq.com/s/2w_oy3SQB7-k5zq3CM6iSQ) (新智元)  
 201910: [图像分割中的深度学习：U-Net 体系结构](https://mp.weixin.qq.com/s/KXOVyfaJERhCTYMuhRBQXw) (AI开发者)  
 201906: [打破国际AI胸部多器官分割记录，腾讯优图荣获SegTHOR三项冠军](https://mp.weixin.qq.com/s/5WoN8WoQuopi6PvElUcIww) (腾讯优图)  
@@ -96,6 +107,7 @@
 
 ## Video-related:
 
+202005: [300+FPS！浙江大学提出超快的结构感知车道线检测新网络](https://mp.weixin.qq.com/s/TYzDx8R1oUbVr0FxGnFspQ) (CVer)  
 201911: [你写脚本，AI自动剪视频：13分钟完成剪辑师7小时创作，清华北航联手打造，丘成桐参与其中](https://mp.weixin.qq.com/s/vuhoK4cVaHDn6oTuGqX_Eg) (量子位)  
 201910: [让视频里的你完全消失，Adobe最新SOTA模型实现无痕修图，无需先验知识](https://mp.weixin.qq.com/s/JahD1ON5ym0_ldc7MiJz7A) (机器之心)  
 201906: [斯坦福等新研究：随意输入文本，改变视频人物对白，逼真到让作者害怕](https://mp.weixin.qq.com/s/qgaWNIeVG821jENaPI2Wmg) (量子位)  
@@ -142,6 +154,8 @@
 
 ## 基础:
 
+202005: [来聊聊DenseNet及其变体PeleeNet、VoVNet](https://mp.weixin.qq.com/s/l639r4u34F07TbJEFJXLwA) (CVer)  
+202005: [《周志华机器学习详细公式推导版》完整PDF首发！1.1w+标星开源项目pumpkin-book](https://mp.weixin.qq.com/s/1JVqgSjVZ0bTuo9J1RL-cw) (Datawhale)  
 201912: [PyTorch Trick 集锦(更新至11点)](https://mp.weixin.qq.com/s/el5PcUIAffw83nXtInHNcA) (CVer)  
 201912: [3* 3卷积+1*3卷积+3* 1卷积=白给的精度提升](https://mp.weixin.qq.com/s/bxRzeZlUH6sq-BWXWnZieA) (CVer)  
 201911: [PyTorch算法加速指南](https://mp.weixin.qq.com/s/HWI4IHR-aGIcKyiVxSoIzg) (AI开发者)  
@@ -194,3 +208,8 @@
 201904: [AI换脸、虚拟主播、智能影像生产……文娱产业现在已成AI的天下了](https://mp.weixin.qq.com/s/8GaPNE8B8zLh3J0CHrEnuA) (量子位)  
 201904: [7000美元，搭建4块2080Ti的深度学习工作站](https://mp.weixin.qq.com/s/98-qs7DotArB0LZL0cWxTw) (机器之心)  
 201902: [深度学习计算机视觉极限将至，我们该如何找到突破口？](https://mp.weixin.qq.com/s/jcIaNnT9KHdfLujqppEXAQ) (机器之心)  
+
+## Tremendous Websites
+
+202005: [1.9K star量，解救无聊网友，小姐姐的「动画师」项目可一键生成个人角色](https://mp.weixin.qq.com/s/8hs3xbKPaCz5Xs_Nkj4ZKA) (机器之心)  
+202005: [一位中国博士把整个CNN都给可视化了，可交互有细节，每次卷积ReLU池化都清清楚楚](https://mp.weixin.qq.com/s/ApAjQorQIivbFP_Z1pfBkg) (CVer) ([Github](https://github.com/poloclub/cnn-explainer) [论文](https://arxiv.org/abs/2004.15004))  
