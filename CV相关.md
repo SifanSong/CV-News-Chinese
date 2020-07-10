@@ -49,18 +49,15 @@
 ## Object/Instance Detection:
 
 202005: [模型的跨界：我拿Transformer去做目标检测，结果发现效果不错](https://mp.weixin.qq.com/s/avt5xktDH9oVRq2_5k6wkQ) (机器之心)  
-202005: [CenterNet再升级！CenterTrack：以点代物，同时进行目标检测和跟踪](https://mp.weixin.qq.com/s/lDPYyFbJmZ_Fw32GQ3-pEw) (CVer)  
-201912: [字节跳动实习生提出实例分割新方法：性能超过何恺明Mask R-CNN](https://mp.weixin.qq.com/s/WAjIWSLgJLVE0KsJZdtqGA) (量子位)  
-201912: [YOLOv3最全复现代码合集（含PyTorch/TensorFlow和Keras等）](https://mp.weixin.qq.com/s/itF-C4TDi1JtuW1Dv2H_SA) (CVer)  
+202005: [CenterNet再升级！CenterTrack：以点代物，同时进行目标检测和跟踪](https://mp.weixin.qq.com/s/lDPYyFbJmZ_Fw32GQ3-pEw) (CVer)   
+201912: [字节跳动实习生提出实例分割新方法：性能超过何恺明Mask R-CNN](https://mp.weixin.qq.com/s/WAjIWSLgJLVE0KsJZdtqGA) (量子位)   
 201912: [一文看尽10篇目标检测最新论文（SpineNet/AugFPN/LRF-Net/SABL/DSFPN等）](https://mp.weixin.qq.com/s/moRNkCaBDtYZgXwaZDXBwA) (CVer)  
 201912: [目标检测三大开源神器：Detectron2/mmDetectron/SimpleDet](https://mp.weixin.qq.com/s/jH2xz5l9QnCfWhpaY2rHcA) (CVer)  
 201912: [一文看尽16篇目标检测最新论文（ATSS/MnasFPN/SAPD/CSPNet/DIoU Loss等）](https://mp.weixin.qq.com/s/q_0NntaL04zh5GYPC55oqw) (CVer)  
 201912: [目标检测的性能上界讨论](https://mp.weixin.qq.com/s/RLGP-iL_k0H9YzRPr1npUg) (CVer)  
-201912: [DIoU YOLOv3：更加稳定有效的目标框回归损失](https://mp.weixin.qq.com/s/ytNXeEB34rTzoHWNQ5aHvA) (CVer)  
 201911: [一文看尽8篇目标检测最新论文(EfficientDet/EdgeNet/ASFF/RoIMix/SCL/EFGRNet等）](https://mp.weixin.qq.com/s/qRr0199V1X-E5kTlXTcvig) (CVer)  
 201911: [EfficientDet：COCO 51.0 mAP！谷歌大脑提出目标检测新标杆](https://mp.weixin.qq.com/s/gMS7b2rrCeAh0DUYlJa4hg) (我爱计算机视觉)  
-201911: [摸不到视频里的犀牛，却能在它身上画画，特效紧贴凹凸表面，动也不掉：全靠免费AE插件](https://mp.weixin.qq.com/s/P4GpdqugOcJDsDmn24xaBA) (量子位)  
-201910: [Gaussian YOLOv3：一个更强的YOLOv3，现已开源！](https://mp.weixin.qq.com/s/UPo44DIRegTCDIqkjUUKwg) (CVer)  
+201911: [摸不到视频里的犀牛，却能在它身上画画，特效紧贴凹凸表面，动也不掉：全靠免费AE插件](https://mp.weixin.qq.com/s/P4GpdqugOcJDsDmn24xaBA) (量子位)   
 201910: [Facebook 发布 Detectron2：基于 PyTorch 的新一代目标检测工具](https://mp.weixin.qq.com/s/UliL8gbNFnfpVOFNKDtgvA) (AI开发者)  
 201910: [比Tiny YOLOv3小8倍，性能提升11个点，4MB的网络也能做目标检测](https://mp.weixin.qq.com/s/cl3HBzt_u1Edp35YLmBVsw) (机器之心)  
 201910: [目标检测新突破！来了解Res2Net深度多尺度目标检测架构](https://mp.weixin.qq.com/s/81Hp1HnqptVJVEBuNZFxdg) (AI开发者)  
@@ -77,6 +74,19 @@
 201904: [吊打YOLOv3！普林斯顿大学提出：CornerNet-Lite，基于关键点的实时且精度高的目标检测算法，已开源](https://mp.weixin.qq.com/s/lk268kc55Lgz1d_21zg26A) (CVer)  
 201904: [中科院牛津华为诺亚提出：CenterNet，One-stage目标检测最强算法！可达47mAP，已开源！](https://mp.weixin.qq.com/s/jX7fwIFKexraVQhqmJMvKA) (CVer)  
 201902: [使用Python和Mask R-CNN自动寻找停车位，这是什么神操作？](https://mp.weixin.qq.com/s/USkdhyEAiU-ZGqmw0v3fXQ) (机器之心) (Mask-RCNN, YOLO)  
+
+## YOLO:
+
+202007: [YOLOV3剪枝方法汇总](https://mp.weixin.qq.com/s/GqlKalXvGscSIsyPokBlhw) (GiantPandaCV)  
+202007: [如何让你的YOLOV3模型更小更快？](https://mp.weixin.qq.com/s/nqEXUBXHedNImabZboSk3Q) (GiantPandaCV)  
+202007: [YOLOv4最全复现代码合集（含PyTorch/TF/Keras和Caffe等）](https://mp.weixin.qq.com/s/Hom300UZhm8pVZAJeQJ3xA) (CVer)  
+202006: [【资源】超详细的Pytorch版YOLOv3代码中文注释](https://mp.weixin.qq.com/s/NOjeztB2q20V62h2JnxhBw) (GiantPandaCV)  
+202006: [YOLOv5来了！基于PyTorch，体积比YOLOv4小巧90%，速度却超2倍](https://mp.weixin.qq.com/s/ohPnWfv5CAIyzc1qobNiFA) (新智元)  
+202006: [史上最详细的Yolov3边框预测分析](https://mp.weixin.qq.com/s/nr6HdT7FKGmxNSEV7zB16w) (GiantPandaCV)  
+202004: [YOLOv4来了！COCO 43.5 AP，65FPS！实现速度与精度的最优平衡](https://mp.weixin.qq.com/s/tjz9Kz7Of8sCnXg0qxNGwQ) (OpenCV中文网) 
+201912: [YOLOv3最全复现代码合集（含PyTorch/TensorFlow和Keras等）](https://mp.weixin.qq.com/s/itF-C4TDi1JtuW1Dv2H_SA) (CVer) 
+201912: [DIoU YOLOv3：更加稳定有效的目标框回归损失](https://mp.weixin.qq.com/s/ytNXeEB34rTzoHWNQ5aHvA) (CVer)  
+201910: [Gaussian YOLOv3：一个更强的YOLOv3，现已开源！](https://mp.weixin.qq.com/s/UPo44DIRegTCDIqkjUUKwg) (CVer) 
 
 ## Semantic Segmentation:
 
