@@ -2,6 +2,7 @@
 
 ## GAN:
 
+202007: [港中文周博磊团队最新研究：无监督条件下GAN潜在语义识别指南](https://mp.weixin.qq.com/s/T9dHgqZO4HWUS1fgPpk-HQ) (机器之心)  
 202005: [Progressive GAN PyTorch 复现踩坑](https://zhuanlan.zhihu.com/p/56244285?utm_source=wechat_session&utm_medium=social&utm_oi=38774348185600&from=timeline&isappinstalled=0&s_s_i=oQ5fBwB0sRNYNOcptg4NofMVwTRmRJjmpEuBIMcCcbY%3D&s_r=1) (知乎)  
 201912: [GAN和PS合体会怎样？东京大学图像增强新研究：无需配对图像，增强效果还可解释](https://mp.weixin.qq.com/s/UgKGBoCIxqYIq0u-3-oFsg) (CVer)  
 201912: [BigGAN被干了！DeepMind发布LOGAN：FID提升32%，华人一作领衔](https://mp.weixin.qq.com/s/jglebP4Zb9rZtb2EhWiQDA) (LOGAN) (量子位)  
@@ -33,6 +34,7 @@
 
 ## 3D/深度 相关:
 
+202007: [3D特效师可以下班了丨Science](https://mp.weixin.qq.com/s/AE02UqOgDivifJpYGfI1zA) (量子位) (图网络 GNN)  
 202005: [操纵加鲁鲁兽的机会来了，SIGGRAPH论文提出RigNet帮动画师做骨架绑定](https://mp.weixin.qq.com/s/bRCtx8E3t0GPm_wvAq2-3w) (机器之心)  
 202005: [一部手机，万物皆可复制粘贴，这位兼职写代码的设计师将AR玩出了新高度](https://mp.weixin.qq.com/s/xbx9tj40oLb20o3-ZsknXg) (机器之心)  
 202005: [你的厨房被水淹了！别担心，这只是3D深度估计做出的特效](https://mp.weixin.qq.com/s/WlDrvXDp28WTxTKRzNUfxA) (机器之心) ([paper](https://arxiv.org/pdf/2004.15021.pdf) [Github](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/))  
@@ -49,6 +51,10 @@
 
 ## Object/Instance Detection:
 
+202007: [CenterNet骨干网络之hourglass](https://mp.weixin.qq.com/s/nfPBRBLG1ThsY3DvONHYrA) (GiantPandaCV)  
+202007: [ECCV 2020 | 微软&北大提出Point-set Anchor：统一目标检测，实例分割，以及人体姿态估计](https://mp.weixin.qq.com/s/AslGRN9Zfqx3aOpU0NIklw) (CVer)  
+202007: [被拒 ECCV 2020！AutoAssign：最强Anchor-free目标检测网络](https://mp.weixin.qq.com/s/axLBPdVvt_yg94VdPSuTCw) (CVer)  
+202007: [一文打尽目标检测NMS | 精度提升篇](https://mp.weixin.qq.com/s/iEZtPAq-b1nTsQS6zQLYuw) (CVer)  
 202006: [【从零开始学Mask RCNN】三，Mask RCNN网络架构解析及TensorFlow和Keras的交互](https://mp.weixin.qq.com/s/2_TF11zy4aM0cZZTuRQhMg) (GiantPandaCV)  
 202006: [【从零开始学Mask RCNN】二，Mask RCNN框架整体把握](https://mp.weixin.qq.com/s/70YDNpmEYoKbVqsLiVPc_w) (GiantPandaCV)  
 202006: [【从零开始学Mask RCNN】一，原理回顾&&项目文档翻译](https://mp.weixin.qq.com/s/8gMMglCkFH6iJgv1ajJGfQ) (GiantPandaCV)  
@@ -86,6 +92,7 @@
 
 ## YOLO:
 
+202007: [超越YOLOv4！PP-YOLO：更快更好的目标检测网络](https://mp.weixin.qq.com/s/87lqWr_j9-sk_koWkBHusg) (CVer)  
 202007: [YOLOV3剪枝方法汇总](https://mp.weixin.qq.com/s/GqlKalXvGscSIsyPokBlhw) (GiantPandaCV)  
 202007: [如何让你的YOLOV3模型更小更快？](https://mp.weixin.qq.com/s/nqEXUBXHedNImabZboSk3Q) (GiantPandaCV)  
 202007: [YOLOv4最全复现代码合集（含PyTorch/TF/Keras和Caffe等）](https://mp.weixin.qq.com/s/Hom300UZhm8pVZAJeQJ3xA) (CVer)  
@@ -96,7 +103,7 @@
 202005: [YOLOV3损失函数再思考 Plus](https://mp.weixin.qq.com/s/biPLPaunfkQtpywaHbBfLg) (GiantPandaCV)  
 202005: [你对YOLOV3损失函数真的理解正确了吗？](https://mp.weixin.qq.com/s/5IfT9cWVbZq4cwHPLes5vA) (GiantPandaCV)  
 202004: [一张图梳理YOLOv4论文](https://mp.weixin.qq.com/s/Ia1ZhAeTgt8anXVd4qxE3A) (GiantPandaCV)  
-202004: [YOLOv4来了！COCO 43.5 AP，65FPS！实现速度与精度的最优平衡](https://mp.weixin.qq.com/s/tjz9Kz7Of8sCnXg0qxNGwQ) (OpenCV中文网) 
+202004: [YOLOv4来了！COCO 43.5 AP，65FPS！实现速度与精度的最优平衡](https://mp.weixin.qq.com/s/tjz9Kz7Of8sCnXg0qxNGwQ) (OpenCV中文网)   
 202002: [专栏 | 【从零开始学习YOLOv3】1. YOLOv3的cfg文件解析与总结](https://mp.weixin.qq.com/s?__biz=MzI1NjQ0Mzc1Mw==&mid=2247496674&amp;idx=2&amp;sn=c6e5a34a44f984b9ef0e2acaf6786ac3&source=41#wechat_redirect) (AI源创评论)  
 201912: [YOLOv3最全复现代码合集（含PyTorch/TensorFlow和Keras等）](https://mp.weixin.qq.com/s/itF-C4TDi1JtuW1Dv2H_SA) (CVer) 
 201912: [DIoU YOLOv3：更加稳定有效的目标框回归损失](https://mp.weixin.qq.com/s/ytNXeEB34rTzoHWNQ5aHvA) (CVer)  
@@ -104,6 +111,7 @@
 
 ## Semantic Segmentation:
 
+202007: [武大提出FarSeg：遥感图像分割新网络，解决前景背景不平衡问题 | CVPR 2020](https://mp.weixin.qq.com/s/wNfj_6YqlBWi-pcLA9tM9g) (CVer)  
 202005: [将全景分割用到养猪场，AI养猪到底靠不靠谱？](https://mp.weixin.qq.com/s/WcZ_fxM7RkI14UJA35y30A) (机器之心)  
 202004: [当UNet遇见ResNet会发生什么？](https://mp.weixin.qq.com/s/YOkOssFN9X1MxMvdlRzVTQ) (GiantPandaCV)  
 201912: [何恺明团队又出神作：将图像分割视作渲染问题，性能显著提升！](https://mp.weixin.qq.com/s/2w_oy3SQB7-k5zq3CM6iSQ) (新智元)  
@@ -118,6 +126,8 @@
 
 ## Face-related:
 
+202007: [清华找到了Deepfake的正确打开方式：给医疗视频数据换脸，保护患者隐私](https://mp.weixin.qq.com/s/__GkGK_wEP2JEgBgESbaww) (量子位)  
+202007: [腾讯优图提出ACFD：非对称卡通人脸检测，推理速度仅50ms](https://mp.weixin.qq.com/s/jXilt95bXSvzC9rSwNxLXQ) (CVer)  
 202006: [一个实用价值很大的人脸关键点检测算法PFLD](https://mp.weixin.qq.com/s/lLee4GxlZYHFrxm1UUHESQ) (GiantPandaCV)  
 202006: [百度 PyramidBox 人脸检测器](https://mp.weixin.qq.com/s/n55jKTZHOEcr9XfpXq8Dbw) (GiantPandaCV)  
 202006: [【资源】PyramidBox代码解析电子书](https://mp.weixin.qq.com/s/DHhCib4xtipBOAZ1-Wq3Qg) (GiantPandaCV)  
@@ -158,6 +168,15 @@
 
 201905: [用自注意力增强卷积：这是新老两代神经网络的对话（附实现）](https://mp.weixin.qq.com/s/fJkSrhbl3M4YaQoV4X2ewQ) (CVer)  
 
+## Adversarial Attact
+
+202007: [微软旷视人脸识别100%失灵！北京十一学校校友新研究「隐身衣」，帮你保护照片隐私数据](https://mp.weixin.qq.com/s/9vCRQF9z7KmQ868Gr9TFcw) (量子位)  
+202007: [一个补丁就让淘宝京东商品识别系统彻底失效，北航博士论文入选ECCV 2020](https://mp.weixin.qq.com/s/nPB8zR8B6rzZ19CA856g6A) (新智元)  
+
+## SLAM
+
+202007: [ORB-SLAM3来了！真有生之年！](https://mp.weixin.qq.com/s/-hs-hSyW1XfFVhd1NwCu7Q) (CVer)  
+
 ## AutoML:
 
 201912: [神经网络架构搜索(NAS)中的milestones](https://mp.weixin.qq.com/s/3Z1_8jxAPlkabKhIdMJmXQ) (CVer)  
@@ -171,6 +190,7 @@
 
 ## 趋势:
 
+202007: [向图像进击的Transformer! OpenAI提出Image GPT实现高质量图像补全和样本生成](https://mp.weixin.qq.com/s/juRgUvnXOxGEAVDUQ9X0LA) (CVer)  
 202001: [2020年AI将会如何发展？吴恩达邀请周志华、Yann LeCun等人进行了一番预测](https://mp.weixin.qq.com/s/ZzTyPvh7rHhAOrLVQ_A4GQ) (机器之心)  
 201912: [2019年Reddit机器学习17个高赞项目：AI德扑大师、StyleGAN等上榜](https://mp.weixin.qq.com/s/6thBtc7IXh1s_qtgxQMBdQ) (新智元)  
 201912: [2019年的6篇最新模型剪枝论文](https://mp.weixin.qq.com/s/I24LdJH-ubSGy5GET7y2CQ) (CVer)  
@@ -183,6 +203,7 @@
 
 ## 基础/经验总结:
 
+202007: [深度学习的多个loss如何平衡 & 有哪些「魔改」损失函数，曾经拯救了你的深度学习模型？](https://mp.weixin.qq.com/s/_HQ5an_krRCYMVnwEgGJow) (GiantPandaCV)  
 202007: [深度学习调参有哪些技巧？](https://mp.weixin.qq.com/s/zRRat4vZqr4GhPlMXZBYKw) (CVer)  
 202006: [【MMDetection 超全专栏】二，配置类和注册器&数据处理&训练pipline](https://mp.weixin.qq.com/s/A8ZwiddYk_RlfquDdLQmKQ) (GiantPandaCV)  
 202006: [【资源】MMdetection简略解析电子书分享](https://mp.weixin.qq.com/s/PUHRrlStPF8ffPaPlUxp2g) (GiantPandaCV)  
@@ -191,6 +212,8 @@
 202005: [《周志华机器学习详细公式推导版》完整PDF首发！1.1w+标星开源项目pumpkin-book](https://mp.weixin.qq.com/s/1JVqgSjVZ0bTuo9J1RL-cw) (Datawhale)  
 202004: [深入理解神经网络中的反(转置)卷积](https://mp.weixin.qq.com/s/WtVsmc4f0T9dWbsBiznnRw) (GiantPandaCV)  
 202004: [【CNN结构设计】无痛的涨点技巧：ACNet](https://mp.weixin.qq.com/s/ZKjHBpxl4kl83xsGO__tmg) (GiantPandaCV)  
+202002: [【激活函数合集】盘点当前最流行的激活函数及选择经验](https://mp.weixin.qq.com/s/MFqiWPJgI9y6fGL16FMdCg) (GiantPandaCV)  
+201912: [快2020年了，你还在为深度学习调参而烦恼吗？](https://mp.weixin.qq.com/s/WU-21QtSlUKqyuH6Bw1IYg) (GiantPandaCV)  
 201912: [PyTorch Trick 集锦(更新至11点)](https://mp.weixin.qq.com/s/el5PcUIAffw83nXtInHNcA) (CVer)  
 201912: [3* 3卷积+1*3卷积+3* 1卷积=白给的精度提升](https://mp.weixin.qq.com/s/bxRzeZlUH6sq-BWXWnZieA) (CVer)  
 201911: [PyTorch算法加速指南](https://mp.weixin.qq.com/s/HWI4IHR-aGIcKyiVxSoIzg) (AI开发者)  
@@ -209,7 +232,6 @@
 2018: [pytorchcv](https://github.com/osmr/imgclsmob/tree/master/pytorch/pytorchcv/models)  
 2018: [Understanding and visualizing of Deep Convolutional Neural Networks](https://towardsdatascience.com/deep-convolutional-neural-networks-ccf96f830178) ([DenseNets](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a), [ResNets](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8), [SE-Nets](https://towardsdatascience.com/understanding-and-visualizing-se-nets-1544aff0fc68))    
 
-
 ## 平台框架:
 
 201912: [NeurIPS顶会接收，PyTorch官方论文首次曝光完整设计思路](https://mp.weixin.qq.com/s/AboWD3xf3jvPkirVWf1QWw) (Python那些事)  
@@ -217,12 +239,21 @@
 201905: [Facebook全新开源深度学习框架Pythia，即插即用快速构建AI模型](https://mp.weixin.qq.com/s/LUjSOlVr0CriDvVXVDDhkw) (新智元)  
 201905: [TensorFlow官方发布剪枝优化工具：参数减少80%，精度几乎不变](https://mp.weixin.qq.com/s/C5_3_9gUYY36C6ZQTGMweg) (量子位)  
 
+## 会议相关:
+
+202007: [ECCV 2020 | 腾讯优图8篇论文入选，涵盖目标跟踪、行人重识别、人脸识别等领域](https://mp.weixin.qq.com/s/tXsG6MXDbSxP3ZCPi8AyHQ) (腾讯优图)  
+
 ## 比赛相关:
 
 201906: [CVPR 2019细粒度图像分类竞赛中国团队DeepBlueAI获冠军 | 技术干货分享](https://mp.weixin.qq.com/s/uCIy8NT0wULOTk2RcUF6Fg) (新智元)  
 
+## 数据集:
+
+202007: [6813个户型，几何与纹理细节丰富，阿里巴巴联合学界开源大型3D场景数据集](https://mp.weixin.qq.com/s/eNTPokQKwxMGQe8yFdCiFw) (机器之心)  
+
 ## Others:
 
+202007: [过来人的肺腑之言，攻读CV和ML硕士给我带来了什么？](https://mp.weixin.qq.com/s/s7Vlrzng37c5gEe3pmo60g) (机器之心)  
 201912: [AI攻破高数核心，1秒内精确求解微分方程、不定积分，性能远超Matlab](https://mp.weixin.qq.com/s/VuCWmi8M62zpSciiqGx03A) (量子位)  
 201912: [那些酷炫的深度学习网络图怎么画出来的？](https://mp.weixin.qq.com/s/2lP48rs20CpkGKvLRsOpAQ) (CVer)  
 201911: [谷歌大脑开源「数据增强」新方法：RandAugment，在ImageNet准确率达85%](https://mp.weixin.qq.com/s/JezHGLv_x8wr7vigA_mShg) (Data Augmentation) (CVer)  
@@ -245,5 +276,6 @@
 
 ## Tremendous Websites
 
+202007: [太牛逼了！用 Python 实现抖音上的“人像动漫化”特效，原来这么简单！](https://mp.weixin.qq.com/s/8OkG2_xsWSn2bltI4Jxvag) (Python程序员)  
 202005: [1.9K star量，解救无聊网友，小姐姐的「动画师」项目可一键生成个人角色](https://mp.weixin.qq.com/s/8hs3xbKPaCz5Xs_Nkj4ZKA) (机器之心)  
 202005: [一位中国博士把整个CNN都给可视化了，可交互有细节，每次卷积ReLU池化都清清楚楚](https://mp.weixin.qq.com/s/ApAjQorQIivbFP_Z1pfBkg) (CVer) ([Github](https://github.com/poloclub/cnn-explainer) [论文](https://arxiv.org/abs/2004.15004))  

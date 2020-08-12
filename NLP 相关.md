@@ -1,5 +1,7 @@
 ## NLP 相关
 
+202007: [GPT-3成精了，万物皆文本时代来临！10年内通过图灵测试？](https://mp.weixin.qq.com/s/7RSuxRutygS1HwEeoRnoFQ) (新智元)  
+202007: [这款NLP神器火了！关键词一键提取、结果高度可视化，堪称「小白进阶大神」的实用工具包 | 开源](https://mp.weixin.qq.com/s/0UEJflY1B27CISh89ou01Q) (量子位)  
 202005: [GPT-3王者来袭！1750亿参数少样本无需微调，网友：「调参侠」都没的当了](https://mp.weixin.qq.com/s/dibf3bU4hQ7nXTPGMFsKbg) (新智元)  
 201911: [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://mp.weixin.qq.com/s/gp9eFeM5Q85pAazWDuG9_g) (量子位)  
 201911: [中文预训练模型ZEN开源，效果领域内最佳，创新工场港科大出品](https://mp.weixin.qq.com/s/NLhqVKrPgYBPRjM1uYwM9A) (量子位)  

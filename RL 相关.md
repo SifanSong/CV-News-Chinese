@@ -1,5 +1,6 @@
 ## RL 相关
 
+202007: [1种策略就能控制多类模型，华人大二学生提出RL泛化方法，LeCun认可转发 | ICML 2020](https://mp.weixin.qq.com/s/FXbKGQJCGkdqNFuKD2u0-A) (量子位)  
 201910: [AI 赌神——如何教神经网络玩 21 点游戏？（附代码）](https://mp.weixin.qq.com/s/rMfXg7tFwcggztl6XBPOsw) (AI开发者)  
 201906: [谷歌造了个虚拟足球场，让AI像打FIFA一样做强化学习训练丨开源有API](https://mp.weixin.qq.com/s/zUFmFtzJGIgL2R16jJkJmA) (量子位)  
 201906: [一条命通关，这个AI算法玩超级马里奥操作秀翻天丨视频+开源代码](https://mp.weixin.qq.com/s/KJMdQdzwzAnx4j3E0sZMZA)(量子位)  
